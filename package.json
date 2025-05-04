@@ -1,0 +1,14 @@
+{
+    "name": "discord-point-bot",
+    "version": "1.0.0",
+    "description": "A simple Discord bot for point management",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "discord.js": "^14.13.0",
+      "dotenv": "^16.3.1"
+    }
+  }
+  
